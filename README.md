@@ -1,5 +1,5 @@
 # Client-Server Chat Application
-By Ofek Bader and Snir Yefet
+By Guy Ankri and Or Hadar
 
 ### How to start
 ---
